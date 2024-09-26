@@ -133,7 +133,7 @@ Clonando o Repositório bash Copiar código git clone https://github.com/seu-usu
 
 
 <a href="">
- <img style="border-radius: 50%;" src="" width="70px;" alt=""/>
+ <img style="border-radius: 50%;" src="" width="70px;" height= "100px;"  alt=""/>
  <br />
 <h3>Gabriel Aboboreira</h3>
 <img src="imgs cod/2023-05-26at08.21.20.jpeg">
