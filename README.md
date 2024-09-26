@@ -135,7 +135,7 @@ Clonando o Repositório bash Copiar código git clone https://github.com/seu-usu
 <a href="">
  <br />
 <h3>Gabriel Aboboreira</h3>
-<img style="border-radius: 50%;" width="380px;" height= "100px;"  alt="" src="imgs cod/2023-05-26at08.21.20.jpeg">
+<img style="border-radius: 50%;" width="350px;" height= "900px;"  alt="" src="imgs cod/2023-05-26at08.21.20.jpeg">
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-aboboreira/)](https://www.linkedin.com/in/gabriel-aboboreira/)
